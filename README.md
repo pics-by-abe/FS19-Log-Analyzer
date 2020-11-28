@@ -6,3 +6,8 @@ A simple log analyzer for Farming Simulator 19
 
 #### There will be no source code for you.
 
+## Web version
+
+[github repository](https://github.com/pics-by-abe/FS19-Log-Analyzer-Web-based/)
+
+[live demo](https://bayern-agrar.me/log-analyzer)
